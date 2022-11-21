@@ -28,7 +28,7 @@ twitter_username: jekyllrb
 github_username:  cvaughan12
 
 # Build settings
-theme: jekyll-theme-libretto
+theme: minima
 plugins:
   - jekyll-feed
 
